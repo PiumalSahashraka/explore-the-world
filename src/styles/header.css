@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 6rem;
+    align-items: center;
+    background: #2B3743;
+}.color-mode{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: white;
+}
+.header-title{
+    color: #fff;
+    font-weight: 500
+}
